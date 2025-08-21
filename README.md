@@ -60,4 +60,4 @@ This repo contains links to my documented projects & labs:
 
 ---
 
-⭐ *This portfolio will be updated regularly with new labs, projects, and security experiments. Stay tuned!*  
+⭐ *This portfolio will be updated regularly with new labs, projects, and security experiments. Stay tuned!* 
