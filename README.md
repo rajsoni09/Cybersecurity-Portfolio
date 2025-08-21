@@ -44,10 +44,10 @@ This repo will contain links to my documented projects & labs:
 ---
 
 ## 📌 Connect with Me  
-- **LinkedIn:** [Rajendra Soni](https://www.linkedin.com/in/rajendra-soni-6224619b)  
-- **GitHub:** [Rajendra’s GitHub](https://github.com/YOUR-USERNAME)  
-- **Email:** your.email@example.com  
+- **LinkedIn:** https://www.linkedin.com/in/rajendra-soni-6224619b  
+- **GitHub:** github.com/rajsoni09  
+- **Email:** rajsoni2009@msn.com
 
 ---
 
-⭐ *This portfolio will be updated weekly with new labs, projects, and documentation. Stay tuned!*  
+⭐ *This portfolio will be updated with new labs, projects, and documentation. Stay tuned!*  
