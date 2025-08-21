@@ -45,7 +45,7 @@ This repo will contain links to my documented projects & labs:
 
 ## 📌 Connect with Me  
 - **LinkedIn:** https://www.linkedin.com/in/rajendra-soni-6224619b  
-- **GitHub:** github.com/rajsoni09  
+- **GitHub:** https://github.com/rajsoni09
 - **Email:** rajsoni2009@msn.com
 
 ---
